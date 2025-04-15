@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdzXH8QMcGI=",
+  "success": true,
+  "projectFilePath": "/Users/fabiomans/Documents/Development/Anton/building-a-modular-monolith-with-vertical-slice-architecture-in-dotnet/Common/Modules.Common.Features/Modules.Common.Features.csproj",
+  "expectedPackageFiles": [
+    "/Users/fabiomans/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
